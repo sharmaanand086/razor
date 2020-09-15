@@ -86,7 +86,7 @@ alert(1);}
     <!--<h1>hellllo bluehost</h1>-->
 	<div class="wrapper">
 		<div class="header">
-				<h1> Arfeen khan </h1>
+				<h1> Heading </h1>
 		</div>
 		<div class="webinar-countdown cf" id="countdown-container">
 				<!--<h4 style="align:center;" class="webinar-countdown__title" id="countdown-title">Pay Rs.30,000/- Right Now and Get Lifetime Membership @10.5Lacs Before The Timer Hits 0</h4>-->
@@ -261,7 +261,7 @@ alert(1);}
 					<div class="side-txt">	
 					<h3>need help?</h3>	
 					<!--<p>Call Us @ (+91) 70456 55781<br></p>-->
-					<p>Email us Anytime:<br><a href="#">support@arfeenkhan.com</a></p>
+					<p>Email us Anytime:<br><a href="#">support@domain.com</a></p>
 					</div>
 					<div class="clearfix"></div>
 				</div>	
